@@ -13,7 +13,7 @@
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/rodneylab/svelte-shy-header)
 
-SvelteKit demo code for implementing a shy, peekaboo page header which reappears when the user scrolls up. Code accompanies the <a aria-label="Open Rodney Lab blog post on tracking page views in Svelte Kit" href="https://rodneylab.com/svelte-shy-header/">article on Svelte shy header implementation</a>. As mentioned in that article, the code is based on a <a href="https://codepen.io/jaffathecake/pen/OJvbpRZ">Jake Archibald CodePen</a>. If you have any questions, please drop a comment at the bottom of that page.
+SvelteKit demo code for implementing a shy, peekaboo page header which reappears when the user scrolls up. Code accompanies the <a aria-label="Open Rodney Lab blog post on tracking page views in Svelte Kit" href="https://rodneylab.com/svelte-shy-header/">article on Svelte shy header implementation</a>. If you have any questions, please drop a comment at the bottom of that page. As mentioned in the article, this code is based on a <a href="https://codepen.io/jaffathecake/pen/OJvbpRZ">Jake Archibald CodePen</a>.
 
 ## Building and previewing the site
 
