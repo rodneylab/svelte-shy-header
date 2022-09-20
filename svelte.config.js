@@ -8,7 +8,6 @@ const config = {
 	preprocess: preprocess(),
 	kit: {
 		adapter: adapter({ precompress: true }),
-		prerender: { default: true },
 	},
 };
 
