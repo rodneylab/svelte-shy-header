@@ -1,30 +1,13 @@
 <script>
 	import Header from '$lib/components/Header.svelte';
 	import '@fontsource/playfair-display/latin.css';
+	import '$lib/styles/global.css';
 </script>
 
 <Header />
 <main class="container" />
 
 <style>
-	:global(body) {
-		margin: 0;
-		font-family: Playfair Display;
-	}
-	:global(:after, :before) {
-		box-sizing: border-box;
-	}
-	:global(:root) {
-		--font-size-6: 3.052rem;
-
-		--font-weight-bold: 700;
-
-		--max-width-full: 100%;
-		--spacing-6: 1.5rem;
-
-		--colour-brand: hsl(19 97% 51%);
-		--colour-dark: hsl(345 6% 13%);
-	}
 	.container {
 		height: 500vh;
 		width: var(--max-width-full);
