@@ -1,11 +1,11 @@
 <script>
 	import Header from '$lib/components/Header.svelte';
-	import '@fontsource/playfair-display/latin.css';
 	import '$lib/styles/global.css';
+	import '@fontsource/playfair-display/latin.css';
 </script>
 
 <Header />
-<main class="container" />
+<main class="container"></main>
 
 <style>
 	.container {
